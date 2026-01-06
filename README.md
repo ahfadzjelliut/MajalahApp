@@ -7,7 +7,7 @@ dibuat menggunakan javascript
 
 Landing page sebagai pengunjung untuk mengisi buku tamu
 
-![image_alt](https://github.com/ahfadzjelliut/MajalahApp/blob/main/screenshot/Screenshot%202026-01-06%20115037.png)
+![image_alt](https://github.com/ahfadzjelliut/MajalahApp/blob/main/screenshot/Screenshot%202026-01-06%20115049.png)
 
 Halaman daftar pencarian majalah
 
